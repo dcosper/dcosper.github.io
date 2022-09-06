@@ -1,4 +1,21 @@
 html, body {
   height: 100%;
   width: 100%;
+  background-color: #303046;
+}
+
+* {
+  font-family: sans-serif;
+}
+
+a {
+  color: orange;
+}
+
+p, h1, h2, li {
+  color: white;
+}
+
+hr {
+  color: #202036;
 }
