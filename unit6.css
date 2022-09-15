@@ -1,0 +1,35 @@
+.coolimg {
+  height: 300px;
+}
+
+.specialborder {
+  border-image-slice: 42 42 42 42;
+  border-image-width: 42px 42px 42px 42px;
+  border-image-outset: 16px 16px 16px 16px;
+  border-image-repeat: round round;
+  border-image-source: url("https://mdn.github.io/css-examples/tools/border-image-generator/border-image-6.svg");
+  border-style: solid; 
+}
+
+#borderimg {
+  background-color: #f2f2f2;
+  color: white;
+  text-shadow: 2px 2px black;
+  background-image: url("https://i1.wp.com/repl.it/public/images/evalbot/evalbot_32.png?ssl=1");
+}
+
+#wrapper {
+  width:60%;
+  margin: auto;
+  margin-top: 30px;
+}
+
+ul {
+  list-style-image: url('icon.png');
+  border-image-slice: 42 42 42 42;
+  border-image-width: 42px 42px 42px 42px;
+  border-image-outset: 0px 0px 0px 0px;
+  border-image-repeat: round round;
+  border-image-source: url("https://mdn.github.io/css-examples/tools/border-image-generator/border-image-6.svg");
+  border-style: solid; 
+}
