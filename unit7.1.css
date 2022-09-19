@@ -18,12 +18,12 @@ Add your CSS to the ID selectors below
 */
 
 #ball{
-  margin-left: 223px;
-  margin-top: 20px;
+  margin-left: 215px;
+  margin-top: 12px;
 }
 
 #turnip{
-  margin-left: 497px;
+  margin-left: 489px;
   margin-top: 193px;
 }
 
@@ -33,7 +33,7 @@ Add your CSS to the ID selectors below
 }
 
 #L{
-  margin-left: 300px;
+  margin-left: 292px;
   margin-top: 1358px;
 }
 
