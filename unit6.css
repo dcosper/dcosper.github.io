@@ -11,6 +11,10 @@
   border-style: solid; 
 }
 
+body {
+  background-image: url("https://media3.giphy.com/media/U3qYN8S0j3bpK/giphy.gif?cid=ecf05e47jftljl8t2rjy52oylrlduhq0xjnemlji9vomo3d2&rid=giphy.gif&ct=g");
+}
+
 #borderimg {
   background-color: #f2f2f2;
   color: white;
