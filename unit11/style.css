@@ -1,0 +1,48 @@
+* {
+  font-family: sans-serif;
+}
+
+form * {
+  margin: 2px;
+}
+
+p, h1, label, legend {
+  color: #ddd;
+}
+
+option {
+  margin-right: 50px;
+}
+
+fieldset {
+  border: 1px solid hsl(240, 10%, 35%);
+  border-radius: 5px;
+}
+
+hr {
+  border-color: hsl(240, 10%, 35%);;
+}
+
+html {
+  height: 100%;
+  width: 100%;
+  background-color: hsl(240, 10%, 13%);
+}
+
+body {
+  width: 90%;
+  height: 90%;
+  margin: 2.5% auto;
+  padding: 10px;
+  border: 1px solid hsl(240, 10%, 25%);
+  background-color: hsl(240, 10%, 15%);
+  border-radius: 10px;
+  position: relative;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  left: 10px;
+  right: 10px;
+}
